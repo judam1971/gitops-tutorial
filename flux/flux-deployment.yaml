@@ -101,7 +101,7 @@ spec:
 
         # replace or remove the following URL
        # - --git-url=git@github.com/judam1971/gitops-tutorial.git
-        - --git-url=https://github.com/judam1971/gitops-tutorial.git
+        - --git-url=git@github.com/judam1971/gitops-tutorial.git
         - --git-path=deploy/kubernetes
         - --git-branch=master
 
